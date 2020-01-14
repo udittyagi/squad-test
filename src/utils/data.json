@@ -1,0 +1,152 @@
+[
+  {
+    "avg_home_price": "$100K - $200K",
+    "id": 1,
+    "plans": [
+      {
+        "plan_name": "Qualified 20",
+        "q_leads_per_month": 20,
+        "price": 69,
+        "total_platform_price": 299
+      },
+      {
+        "plan_name": "Qualified 40",
+        "q_leads_per_month": 40,
+        "price": 67,
+        "total_platform_price": 599
+      },
+      {
+        "plan_name": "Qualified 60",
+        "q_leads_per_month": 60,
+        "price": 65,
+        "total_platform_price": 699
+      },
+      {
+        "plan_name": "Qualified 80",
+        "q_leads_per_month": 80,
+        "price": 63 ,
+        "total_platform_price": 799
+      }
+    ]
+  },
+  {
+    "avg_home_price": "$200K - $300K",
+    "id": 2,
+    "plans": [
+      {
+        "plan_name": "Qualified 20",
+        "q_leads_per_month": 20,
+        "price": 79,
+        "total_platform_price": 299
+      },
+      {
+        "plan_name": "Qualified 40",
+        "q_leads_per_month": 40,
+        "price": 77,
+        "total_platform_price": 599
+      },
+      {
+        "plan_name": "Qualified 60",
+        "q_leads_per_month": 60,
+        "price": 74,
+        "total_platform_price": 699
+      },
+      {
+        "plan_name": "Qualified 80",
+        "q_leads_per_month": 80,
+        "price": 72 ,
+        "total_platform_price": 799
+      }
+    ]
+  },
+  {
+    "avg_home_price": "$300K - $400K",
+    "id": 3,
+    "plans": [
+      {
+        "plan_name": "Qualified 20",
+        "q_leads_per_month": 20,
+        "price": 99,
+        "total_platform_price": 299
+      },
+      {
+        "plan_name": "Qualified 40",
+        "q_leads_per_month": 40,
+        "price": 96,
+        "total_platform_price": 599
+      },
+      {
+        "plan_name": "Qualified 60",
+        "q_leads_per_month": 60,
+        "price": 93,
+        "total_platform_price": 699
+      },
+      {
+        "plan_name": "Qualified 80",
+        "q_leads_per_month": 80,
+        "price": 90,
+        "total_platform_price": 799
+      }
+    ]
+  },
+  {
+    "avg_home_price": "$400K - $500K",
+    "id": 4,
+    "plans": [
+      {
+        "plan_name": "Qualified 20",
+        "q_leads_per_month": 20,
+        "price": 109,
+        "total_platform_price": 299
+      },
+      {
+        "plan_name": "Qualified 40",
+        "q_leads_per_month": 40,
+        "price": 106,
+        "total_platform_price": 599
+      },
+      {
+        "plan_name": "Qualified 60",
+        "q_leads_per_month": 60,
+        "price": 102,
+        "total_platform_price": 699
+      },
+      {
+        "plan_name": "Qualified 80",
+        "q_leads_per_month": 80,
+        "price": 99 ,
+        "total_platform_price": 799
+      }
+    ]
+  },
+  {
+    "avg_home_price": "$500K+",
+    "id": 5,
+    "plans": [
+      {
+        "plan_name": "Qualified 20",
+        "q_leads_per_month": 20,
+        "price": 129,
+        "total_platform_price": 299
+      },
+      {
+        "plan_name": "Qualified 40",
+        "q_leads_per_month": 40,
+        "price": 125,
+        "total_platform_price": 599
+      },
+      {
+        "plan_name": "Qualified 60",
+        "q_leads_per_month": 60,
+        "price": 121,
+        "total_platform_price": 699
+      },
+      {
+        "plan_name": "Qualified 80",
+        "q_leads_per_month": 80,
+        "price": 117,
+        "total_platform_price": 799
+      }
+    ]
+  }
+]
